@@ -29,7 +29,7 @@ st.info("###### Feature Information\n"
         
 
 import pickle
-from tensorflow.keras.models import load_model
+# from tensorflow.keras.models import load_model
 
 
 col, col2 = st.columns([4, 4])
