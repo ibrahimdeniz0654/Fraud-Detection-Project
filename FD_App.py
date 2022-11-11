@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import tensorflow as tf
+# import tensorflow as tf
 
 
 st.set_page_config(page_title="Fraud Detection")
