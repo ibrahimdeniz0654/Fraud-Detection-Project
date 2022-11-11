@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import tensorflow as tf
+# import tensorflow as tf
 
 
 st.set_page_config(page_title="Fraud Detection")
@@ -29,7 +29,7 @@ st.info("###### Feature Information\n"
         
 
 import pickle
-from tensorflow.keras.models import load_model
+# from tensorflow.keras.models import load_model
 
 
 col, col2 = st.columns([4, 4])
